@@ -7,9 +7,9 @@ from typing import List, Dict, Optional
 import json
 
 # Configuration
-GOOGLE_API_KEY = "AIzaSyDYPRZRkn5Dgmez17Krqket5a8IOY1OLkE"
-SEARCH_ENGINE_ID = "a56d28eb5509e451c"
-GEMINI_API_KEY = "AIzaSyDPCjJaJQUwjtFbTOCM_Yxali_hl5a4IR8"
+GOOGLE_API_KEY = ""
+SEARCH_ENGINE_ID = ""
+GEMINI_API_KEY = ""
 
 genai.configure(api_key=GEMINI_API_KEY)
 
